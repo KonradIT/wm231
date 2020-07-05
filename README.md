@@ -12,6 +12,12 @@ Using Drone Hacks you can modify a few params that are already written in the wi
 
     g_config_control_avoid_atti_range
 
+Most important parameters seem to be maxed out already:
+
+![](https://i.imgur.com/fOGMckU.png)
+
+![](https://i.imgur.com/H00aBdt.png)
+
 ## RC
 
 todo
@@ -22,6 +28,7 @@ todo
     0 /dev/ttyACM0
     0 /dev/ttyACM1
 
+Still need to try the USB C OTG > USB Ethernet adapter trick to push the RC to browse FTP server.
 
 ## Links / Credits
 
