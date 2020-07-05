@@ -23,3 +23,12 @@ todo
     0 /dev/ttyACM1
 
 
+## Links / Credits
+
+https://github.com/o-gs/dji-firmware-tools
+
+http://dji.retroroms.info/ (esp the parameterindex/parameterhacks section)
+
+https://drone-hacks.com
+
+
