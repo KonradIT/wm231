@@ -28,8 +28,6 @@ todo
     0 /dev/ttyACM0
     0 /dev/ttyACM1
 
-Still need to try the USB C OTG > USB Ethernet adapter trick to push the RC to browse FTP server.
-
 ## Links / Credits
 
 https://github.com/o-gs/dji-firmware-tools
