@@ -1,0 +1,26 @@
+392c392
+< user_avoid_enable|g_config.avoid_obstacle_limit_cfg.user_avoid_enable default = 1 range = < 0 .. 1 >
+---
+> user_avoid_enable|g_config.avoid_obstacle_limit_cfg.user_avoid_enable default = 1 range = < 0 .. 2 >
+397a398
+> forbid_side_fly default = 0 range = < 0 .. 1 >
+412a414
+> rc_lost_delay_time_for_timelapse default = 0.000000 range = < 0.000000 .. 1000000000.000000 >
+424a427,433
+> gimbal_fpv_mode_enable default = 0 range = < 0 .. 1 >
+> fpv_roll_follow_enable default = 0 range = < 0 .. 1 >
+> fpv_roll_pitch_fltr_fc default = 0.750000 range = < 0.010000 .. 20.000000 >
+> fpv_yaw_fltr_fc default = 10.000000 range = < 0.010000 .. 20.000000 >
+> fpv_roll_max default = 20.000000 range = < 0.100000 .. 50.000000 >
+> fpv_r_p_rate_max default = 180.000000 range = < 0.100000 .. 500.000000 >
+> fpv_r_comp_exp default = 0.800000 range = < 0.100000 .. 0.900000 >
+460c469
+< go_home_current default = 7500 range = < 0 .. 65535 >
+---
+> go_home_current default = 7800 range = < 0 .. 65535 >
+650c659
+< g_config.mode_sport_cfg.tors_exp_mid_point default = 0.350000 range = < 0.100000 .. 0.900000 >
+---
+> g_config.mode_sport_cfg.tors_exp_mid_point default = 0.250000 range = < 0.100000 .. 0.900000 >
+
+
